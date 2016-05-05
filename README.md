@@ -14,7 +14,10 @@ E-Store aims to have a suite of store management functionalities such as price c
 •	Reports and Analysis: E-Store tracks the purchase activities of customers from the accounting database and generates reports on how the store is performing
 
 
-a.	With a rich client, every operation happens locally, which provides the best user experience and fastest response.
+a.	With a rich client, every operation happens locally, which provides the best user experience and fastest response
+
 b.	The store part can function completely when the headquarters is temporarily unavailable or even down, and the customers, employees and managers are not affected at all.
-c.	The sacrifice of real-time data to the headquarters will only affect the reporting system in some limited scope.
+
+c.	The sacrifice of real-time data to the headquarters will only affect the reporting system in some limited scope
+
 d.	The headquarters gets pressure only when it’s necessary to sync the data, which makes the headquarters safer and more responsive.
